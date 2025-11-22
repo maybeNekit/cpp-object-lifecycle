@@ -29,20 +29,3 @@ The project demonstrates the implementation of the **Singleton** pattern and pro
 * **Operator Overloading:**
     * [cite_start]Custom implementation of stream insertion (`<<`), comparison (`==`, `!=`, `<`), and arithmetic operators for custom classes[cite: 159].
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-* C++ Compiler (GCC/Clang/MSVC) supporting C++17 or later.
-* CMake (optional, if you use it for building).
-
-### Compilation and Run
-
-You can compile the project using `g++`:
-
-```bash
-# Compile all source files
-g++ -std=c++17 main.cpp -o app
-
-# Run the application
-./app
